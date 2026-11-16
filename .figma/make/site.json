@@ -1,0 +1,10 @@
+{
+  "description": "Showcases two distinct restaurants, offering menus, reservations, and location details to enhance customer dining experiences and streamline bookings.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
